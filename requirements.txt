@@ -1,5 +1,6 @@
 streamlit
 pandas
+numpy==1.26.4
 pmdarima
 scikit-learn
 tensorflow
