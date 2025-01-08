@@ -18,7 +18,7 @@ PLOT_HEIGHT = 750
 
 @st.cache_data
 def load_data():
-  data_folder = "/data/"
+  data_folder = "data/"
 
   cic1 = pd.read_csv(f"{data_folder}Cicalino1.csv", parse_dates=True)
   cic1["DateTime"] = pd.to_datetime(cic1["DateTime"], format="%Y-%m-%d %H:%M:%S")
