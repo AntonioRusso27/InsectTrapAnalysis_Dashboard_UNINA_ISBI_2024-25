@@ -4,3 +4,4 @@ numpy
 pmdarima
 scikit-learn
 tensorflow
+plotly
