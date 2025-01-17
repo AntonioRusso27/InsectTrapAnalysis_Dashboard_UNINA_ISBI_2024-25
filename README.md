@@ -1,6 +1,6 @@
 # Short Time Series Analysis
 
-*Information Systems and Business Intelligence, a.a. 2024/25 - Università degli Studi di Napoli Federico II/*
+*Information Systems and Business Intelligence, a.a. 2024/25 - Università degli Studi di Napoli Federico II*
 
 This repository is currently hosted on [Streamlit Community Cloud](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app) at this [link](https://insect-weather-analysis-isbi2024-25.streamlit.app/)
 
